@@ -116,3 +116,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - **Dataset**: The Boston Housing dataset is sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/machine-learning-databases/housing/).
 - **Libraries**: Thanks to the developers of [scikit-learn](https://scikit-learn.org/), [pandas](https://pandas.pydata.org/), [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), and [seaborn](https://seaborn.pydata.org/) for their powerful tools.
+
+
+## Author
+- Theresa Gyamfi Allotey
