@@ -1,4 +1,4 @@
- Boston Housing Price Prediction
+ Boston Housing Price Prediction Machine Leraning
 
 This project focuses on predicting housing prices in Boston using linear regression. It leverages the well-known Boston Housing dataset, a standard dataset for regression tasks in machine learning, to explore data, train a model, and evaluate its performance.
 
@@ -22,6 +22,8 @@ To run this project, ensure you have Python installed along with the following l
 - `matplotlib`
 - `seaborn`
 - `scikit-learn`
+
+Alternatively, you can view the [Boston Housing Price Prediction notebook](Boston%20Housing%20Price%20Prediction%20notebook.ipynb) for detailed analysis.
 
 Install these dependencies using pip:
 
